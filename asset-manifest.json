@@ -1,0 +1,22 @@
+{
+  "main.css": "/ClickyGame/static/css/main.46c62f1e.chunk.css",
+  "main.js": "/ClickyGame/static/js/main.223e614b.chunk.js",
+  "main.js.map": "/ClickyGame/static/js/main.223e614b.chunk.js.map",
+  "runtime~main.js": "/ClickyGame/static/js/runtime~main.1eb9bb0a.js",
+  "runtime~main.js.map": "/ClickyGame/static/js/runtime~main.1eb9bb0a.js.map",
+  "static/js/2.2dd0b453.chunk.js": "/ClickyGame/static/js/2.2dd0b453.chunk.js",
+  "static/js/2.2dd0b453.chunk.js.map": "/ClickyGame/static/js/2.2dd0b453.chunk.js.map",
+  "index.html": "/ClickyGame/index.html",
+  "precache-manifest.61edc2040278b22eba9857324cb63908.js": "/ClickyGame/precache-manifest.61edc2040278b22eba9857324cb63908.js",
+  "service-worker.js": "/ClickyGame/service-worker.js",
+  "static/css/main.46c62f1e.chunk.css.map": "/ClickyGame/static/css/main.46c62f1e.chunk.css.map",
+  "static/media/Cell.png": "/ClickyGame/static/media/Cell.3570d73b.png",
+  "static/media/Frieza_Artwork.png": "/ClickyGame/static/media/Frieza_Artwork.d32807fb.png",
+  "static/media/Trunks.png": "/ClickyGame/static/media/Trunks.6908d0fe.png",
+  "static/media/Yamcha.jpg": "/ClickyGame/static/media/Yamcha.1d2a1d06.jpg",
+  "static/media/background.jpg": "/ClickyGame/static/media/background.34c97f4a.jpg",
+  "static/media/gohan.png": "/ClickyGame/static/media/gohan.8f8505e5.png",
+  "static/media/goku.jpg": "/ClickyGame/static/media/goku.5f366460.jpg",
+  "static/media/piccolo.jpg": "/ClickyGame/static/media/piccolo.aa3b19df.jpg",
+  "static/media/vegeta.jpg": "/ClickyGame/static/media/vegeta.e1f35aed.jpg"
+}
