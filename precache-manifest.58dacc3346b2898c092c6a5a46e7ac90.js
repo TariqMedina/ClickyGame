@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/ClickyGame/static/media/Frieza_Artwork.d32807fb.png"
   },
   {
-    "revision": "b67fccb3cb22eb1c4769",
-    "url": "/ClickyGame/static/css/main.8638a219.chunk.css"
+    "revision": "ccedb114681c4324f46a",
+    "url": "/ClickyGame/static/css/main.60f4d075.chunk.css"
   },
   {
     "revision": "95fffdb9eb36913c2817",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/ClickyGame/static/media/Cell.3570d73b.png"
   },
   {
-    "revision": "b67fccb3cb22eb1c4769",
-    "url": "/ClickyGame/static/js/main.223e614b.chunk.js"
+    "revision": "ccedb114681c4324f46a",
+    "url": "/ClickyGame/static/js/main.6f836852.chunk.js"
   },
   {
     "revision": "8f8505e58f32aa488499e9d0ac4bd9a9",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/ClickyGame/static/media/piccolo.aa3b19df.jpg"
   },
   {
-    "revision": "f59e21c8634df8974a095d7d7b5ef8a2",
+    "revision": "6275e9454fe6e4d26812bbdbef164c55",
     "url": "/ClickyGame/index.html"
   }
 ];
