@@ -1,5 +1,5 @@
 {
-  "main.css": "/ClickyGame/static/css/main.46c62f1e.chunk.css",
+  "main.css": "/ClickyGame/static/css/main.8638a219.chunk.css",
   "main.js": "/ClickyGame/static/js/main.223e614b.chunk.js",
   "main.js.map": "/ClickyGame/static/js/main.223e614b.chunk.js.map",
   "runtime~main.js": "/ClickyGame/static/js/runtime~main.1eb9bb0a.js",
@@ -7,9 +7,9 @@
   "static/js/2.2dd0b453.chunk.js": "/ClickyGame/static/js/2.2dd0b453.chunk.js",
   "static/js/2.2dd0b453.chunk.js.map": "/ClickyGame/static/js/2.2dd0b453.chunk.js.map",
   "index.html": "/ClickyGame/index.html",
-  "precache-manifest.61edc2040278b22eba9857324cb63908.js": "/ClickyGame/precache-manifest.61edc2040278b22eba9857324cb63908.js",
+  "precache-manifest.7935b6b262991c13c09c2f06e65e4fe5.js": "/ClickyGame/precache-manifest.7935b6b262991c13c09c2f06e65e4fe5.js",
   "service-worker.js": "/ClickyGame/service-worker.js",
-  "static/css/main.46c62f1e.chunk.css.map": "/ClickyGame/static/css/main.46c62f1e.chunk.css.map",
+  "static/css/main.8638a219.chunk.css.map": "/ClickyGame/static/css/main.8638a219.chunk.css.map",
   "static/media/Cell.png": "/ClickyGame/static/media/Cell.3570d73b.png",
   "static/media/Frieza_Artwork.png": "/ClickyGame/static/media/Frieza_Artwork.d32807fb.png",
   "static/media/Trunks.png": "/ClickyGame/static/media/Trunks.6908d0fe.png",
